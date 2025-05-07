@@ -1,5 +1,4 @@
-// Islamic Quiz Data (100 questions)
-const fullQuizData = [
+const quizData = [
   {
     question: "Who was the last Prophet in Islam?",
     a: "Prophet Musa",
@@ -80,7 +79,6 @@ const fullQuizData = [
     d: "Azrael",
     correct: "c"
   },
-  // ✨ More Islamic Questions Here
   {
     question: "What is the name of the Prophet Muhammad's (SAW) first wife?",
     a: "Aisha",
